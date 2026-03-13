@@ -461,8 +461,17 @@ Status tags: [D] = Formally derived from stated assumptions · [P] = Model propo
 
 *Derived from two field sessions at Washington Square Park, New York City, 2026. N unknown in both. Session 2's anomalous observations are the founding data. All quantitative claims are pilot estimates pending controlled replication.*
 
-![20260313_180907000_iOS](https://github.com/user-attachments/assets/e938ebe1-5655-4d46-8f55-d3c0c0b03b7f)
-![20260313_180845000_iOS](https://github.com/user-attachments/assets/b8407459-5aa7-4a57-bada-eefecc38cbc4)
-<img width="590" height="1278" alt="20260313_180949000_iOS" src="https://github.com/user-attachments/assets/d3411eed-ac05-4b93-b51a-23ef742dc717" />
-![20260313_180914000_iOS](https://github.com/user-attachments/assets/d26aed27-8f49-4d83-94e1-5cc06d854051)
+
+![20260313_180845000_iOS](https://github.com/user-attachments/assets/deb8c40b-492c-46c6-8638-e3a98018d3ef)
+
+![20260313_180907000_iOS](https://github.com/user-attachments/assets/3a6070e8-3fce-4c4a-a7ef-acd36f3a7b51)
+
+![20260313_180914000_iOS](https://github.com/user-attachments/assets/fa228d9a-3f71-4aba-8688-5de5eb7f8e0c)
+
+<img width="590" height="1278" alt="20260313_180949000_iOS" src="https://github.com/user-attachments/assets/6e3f6694-1fce-4790-83bc-f381c603987e" />
+
+
+
+
+
 
